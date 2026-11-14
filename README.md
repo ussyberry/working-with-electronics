@@ -14,8 +14,10 @@ We are brainstorming a **new product**, separate from everything else in this re
 
 ## In this repo (older work, left as-is)
 
-- **Tesla Resonance Charger** — room-scale resonant wireless charging concept: specs, circuit design, transmitter/receiver concepts.
-- **circuits/** — modular solid-state Tesla coil (SSTC): driver PCB + external coil assembly, BOM, schematic, topology.
-- **circuits/tesla_critique_1.md** — feasibility critique of the original single-PCB SSTC design.
-- **documents/** — Tesla source documents (Colorado Springs Notes, The Problem of Increasing Human Energy, and others).
-- **patents/** — Tesla patents and technical documents.
+- **tesla/** — all Tesla reference material, moved here Nov 14, 2026:
+  - **Tesla Resonance Charger** — room-scale resonant wireless charging concept: specs, circuit design, transmitter/receiver concepts.
+  - **circuits/** — modular solid-state Tesla coil (SSTC): driver PCB + external coil assembly, BOM, schematic, topology.
+  - **circuits/tesla_critique_1.md** — feasibility critique of the original single-PCB SSTC design.
+  - **documents/** — Tesla source documents (Colorado Springs Notes, The Problem of Increasing Human Energy, and others).
+  - **patents/** — Tesla patents and technical documents.
+- **leonardo/** — reserved for Leonardo da Vinci material, to be filled later.
