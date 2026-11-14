@@ -1,0 +1,164 @@
+# Tesla — Westinghouse Correspondence: Letter Index
+
+> **Source:** *Correspondances Tesla–Westinghouse* (Tesla–Westinghouse correspondence, in French), compiled by Jeff Behary. Archive.org item **tesla-westinghouse-final-intl-text-french_202309** — PDF: https://archive.org/download/tesla-westinghouse-final-intl-text-french_202309/Tesla%20-%20Westinghouse%20Final%20Intl%20Text%20French.pdf
+>
+> **About this file:** An index of the letters in the volume — date, sender and recipient for each letter. The letter texts are NOT reproduced here: the letters are printed in French in the 2022 compilation, which is a translation of the original English correspondence, and the compilation carries an "All rights reserved" notice ("No part of this document may be reproduced"). The underlying letters are public domain (Nikola Tesla, died 1943; George Westinghouse, died 1914), but the French translation is not freely reproducible, so this file lists the letters only. The full French text is in the PDF on archive.org (link above). A full structured transcription of the OCR text is held locally and is not published here.
+>
+> The letters are in the order of the book, which is not strictly chronological. Dates are as printed (in French). Seven letters in the volume carry no date.
+
+## The Tesla–Peck agreement, 5 April 1887
+
+The volume also reproduces the Tesla–Peck agreement of 5 April 1887 in full (see the PDF).
+
+## Correspondence — 149 letters and 1 telegram (1888–1910)
+
+- 31 mars 1888 — Mather Electric Company to Nikola Tesla
+- 21 avril 1888 — W. A. Anthony to Nikola Tesla
+- 5 mai 1888 — Telegram from W. A. Anthony to Nikola Tesla
+- 1 décembre 1888 — C. F. Peck to Nikola Tesla
+- 13 décembre 1888 — Westinghouse Electric Company to Nikola Tesla
+- 16 janvier 1889 — W. A. Anthony to Nikola Tesla
+- Undated — W. A. Anthony to Nikola Tesla
+- 22 juin 1891 — Ernest H. Heinrichs to Nikola Tesla
+- 27 janvier 1893 — Lemuel Bannister to Nikola Tesla
+- 26 septembre 1893 — W. A. Anthony to Nikola Tesla
+- 13 mars 1895 — Ernest H. Heinrichs to Nikola Tesla
+- 22 mars 1895 — Nikola Tesla to Albert Schmid
+- 27 mars 1895 — Nikola Tesla to Albert Schmid
+- 30 mars 1895 — Nikola Tesla to Albert Schmid
+- 30 mars 1895 — Nikola Tesla to Albert Schmid
+- 1 avril 1895 — Nikola Tesla to Albert Schmid
+- 3 avril 1895 — Nikola Tesla to Albert Schmid
+- 4 avril 1895 — Nikola Tesla to Albert Schmid
+- 6 avril 1895 — Nikola Tesla to Albert Schmid
+- 8 avril 1895 — Lemuel Bannister to Nikola Tesla
+- 9 avril 1895 — Nikola Tesla to Albert Schmid
+- 12 avril 1895 — Nikola Tesla to Messieurs
+- 12 avril 1895 — Nikola Tesla to W. C. Clark
+- 13 avril 1895 — Nikola Tesla to Messieurs
+- 13 avril 1895 — Nikola Tesla to Albert Schmid
+- 13 avril 1895 — Nikola Tesla to George Westinghouse
+- 16 avril 1895 — Nikola Tesla to Messieurs
+- 20 avril 1895 — Nikola Tesla to Messieurs
+- 23 avril 1895 — Nikola Tesla to Albert Schmid
+- 24 avril 1895 — Nikola Tesla to Albert Schmid
+- 25 avril 1895 — Nikola Tesla to Charles F. Scott
+- 26 avril 1895 — Nikola Tesla to Albert Schmid
+- 3 mai 1895 — Nikola Tesla to Messieurs
+- 3 mai 1895 — Nikola Tesla to Albert Schmid
+- 4 mai 1895 — Nikola Tesla to Charles F. Scott
+- 9 mai 1895 — Nikola Tesla to Charles F. Scott
+- 9 mai 1895 — Nikola Tesla to Albert Schmid, surint
+- 14 mai 1895 — Nikola Tesla to Charles F. Scott
+- 14 mai 1895 — Nikola Tesla to Albert Schmid, surintendant
+- 15 mai 1895 — N Tesla to W. C. Clark
+- 16 mai 1895 — Nikola Tesla to W. Longmore
+- 17 mai 1895 — 46, rue E. Houston to Albert Schmid, surintendant
+- Undated — Westinghouse Electric Company to Bragg
+- 21 mai 1895 — Nikola Tesla to Albert Schmid
+- 22 mai 1895 — Nikola Tesla to Albert Schmid
+- 28 mai 1895 — Nikola Tesla to Albert Schmid
+- 29 mai 1895 — Nikola Tesla to Albert Schmid, surintendant
+- 6 juin 1895 — Nikola Tesla to Albert Schmid
+- 10 juin 1895 — Nikola Tesla to Albert Schmid
+- 13 juin 1895 — 46, rue E. Houston to Albert Schmid, surintendant
+- 15 juin 1895 — Nikola Tesla to Albert Schmid, surint. Westinghouse Elec. Co
+- 18 juin 1895 — Westinghouse Electric Company to Nikola Tesla
+- 19 juin 1895 — Westinghouse Electric Company to Albert Schmid, GÉNÉRAL (Surint.)
+- 20 juin 1895 — Nikola Tesla to Albert Schmid, surintendant général
+- 21 juin 1895 — Nikola Tesla to Albert Schmid, surintendant général
+- 22 juin 1895 — Nikola Tesla to Albert Schmid, surintendant général
+- 21 juin 1895 — Nikola Tesla to Albert Schmid, surintendant général
+- 24 juin 1895 — Nikola Tesla to Albert Schmid, surintendant général
+- 25 juin 1895 — Nikola Tesla to Albert Schmid, surintendant général
+- 26 juin 1895 — Nikola Tesla to Albert Schmid, surintendant général
+- 29 juin 1895 — Nikola Tesla to Albert Schmid, surintendant général
+- 2 juillet 1895 — Nikola Tesla to Albert Schmid, surintendant général
+- 3 juillet 1895 — Nikola Tesla to Albert Schmid, surintendant général
+- 10 juillet 1895 — Nikola Tesla to Albert Schmid, surintendant général
+- 10 juillet 1895 — Nikola Tesla to Albert Schmid, surintendant général
+- 11 juillet 1895 — Nikola Tesla to Albert Schmid, surintendant général
+- 12 juillet 1895 — Nikola Tesla to Albert Schmid, surintendant général
+- 24 juillet 1895 — Nikola Tesla to Albert Schmid, surintendant général
+- 26 juillet 1895 — Nikola Tesla to Albert Schmid, surintendant général
+- 7 août 1895 — Nikola Tesla to George Westinghouse
+- 8 août 1895 — George Westinghouse to Nikola Tesla
+- 14 août 1895 — Nikola Tesla to George Westinghouse
+- 15 août 1895 — Westinghouse Electric Company to Nikola Tesla
+- 4 septembre 1895 — Westinghouse Electric & Mfg. Co to Nikola Tesla
+- 11 octobre 1895 — Henri Floy to Nikola Tesla
+- 16 décembre 1895 — LB Stillwell to Nikola Tesla
+- 24 décembre 1895 — LB Stillwall to Nikola Tesla
+- 26 décembre 1895 — WESTINGHOUSE ÉLECTRIQUE ET MFG to Nikola Tesla
+- Undated — Albert Schmid to Nikola Tesla
+- 31 décembre 1895 — Nikola Tesla to Messieurs
+- 31 décembre 1895 — Nikola Tesla to Albert Schmidt
+- 20 février 1896 — WM. P.ZIMMERMANN to Nikola Tesla
+- 13 mars 1896 — Nikola Tesla to PD Lange
+- 18 mars 1896 — LB Stillwell to Nikola Tesla
+- 2 mai 1896 — Nikola Tesla to WHD Lange
+- 27 mai 1896 — Ralph D. Mershon to Nikola Tesla
+- 10 juillet 1896 — George Westinghouse to Nikola Tesla
+- 23 juillet 1896 — LB Stillwell to Nikola Tesla
+- 1 août 1896 — Nikola Tesla to HD Lange
+- 4 septembre 1896 — Ernest H. Heinrichs to Nikola Tesla
+- 3 janvier 1897 — New York, 22 mai 1897 to Messieurs
+- Undated — Westinghouse Electric Company to Scott
+- 28 mai 1897 — Arthur Hartwell to Nikola Tesla
+- 5 juin 1897 — que je to Nikola Tesla
+- 15 juin 1897 — EH Heinrich to Nikola Tesla
+- 19 juin 1897 — Nikola Tesla to RH Heinrichs
+- 21 juin 1897 — George Westinghouse to Nikola Tesla
+- 20 juin 1897 — Nikola Tesla to Charles F. Scott
+- 23 juillet 1897 — George Westinghouse to Nikola Tesla
+- 26 juillet 1897 — Wm.F. Zimmermann to Nikola Tesla
+- Undated — Westinghouse Electric Company to Scott
+- 23 septembre 1897 — Westinghouse Electric Company to Nickola Tesla
+- 24 septembre 1897 — Nikola Tesla to Charles F. Scott
+- 15 octobre 1897 — Nikola Tesla to George Westinghouse
+- 17 octobre 1897 — George Westinghouse to Nikola Tesla
+- 26 octobre 1897 — G Wataleon to Nikola Tesla
+- 3 décembre 1897 — EH Heinrich to Nikola Tesla
+- 4 décembre 1897 — Nikola Tesla to George Westinghouse
+- 7 décembre 1897 — George Westinghouse to NIKOLA TESLA
+- 14 décembre 1897 — Nikola Tesla to EH Heinrichs
+- 8 décembre 1897 — Ernest H. Heinrichs to Nikola Tesla
+- 3 janvier 1898 — BH Warrell to Nikola Tesla
+- 6 février 1898 — Nikola Tesla to Messieurs
+- 27 février 1898 — Nikola Tesla to Karl Till
+- 5 mars 1898 — Nikola Tesla to Charles Till
+- 27 mars 1898 — Nikola Tesla to George Westinghouse
+- 30 mars 1898 — George Westinghouse to Nikola Tesla
+- 10 mai 1898 — Nikola Tesla to George Westinghouse
+- 17 mai 1898 — Westinghouse Electric Company to Nikola Tesla
+- 18 mai 1898 — Westinghouse Electric Company to Messieurs
+- 26 avril 1896 — Nikola Tesla to George Westinghouse
+- 16 mai 1898 — Nikola Tesla to George Westinghouse
+- 19 mai 1898 — George Westinghouse to Nikola Tesla
+- 12 octobre 1898 — Westinghouse Electric Company to Nikola Tesla
+- 12 octobre 1898 — Nikola Tesla to Messieurs
+- 16 novembre (year not stated in the text) — fait que mon to Nikola Tesla
+- 29 novembre 1898 — Nikola Tesla to George Westinghouse
+- 29 novembre 1898 — George Westinghouse to Nikola Tesla
+- 30 novembre 1898 — Nikola Tesla to George Westinghouse
+- Undated — George Westinghouse to Nikola Tesla
+- 5 décembre 1898 — Nikola Tesla to George Westinghouse
+- 8 décembre 1898 — George Westinghouse to Nikola Tesla
+- 12 décembre 1898 — Nikola Tesla to George Westinghouse
+- Undated — GW Hébord to Nikola Tesla
+- 24 février 1899 — Nikola Tesla to Messieurs
+- 27 février 1899 — GW Hébord to Nikola Tesla
+- 20 avril (year not stated in the text) — George Westinghouse to Nikola Tesla
+- 22 janvier 1900 — PROTOCOLE D'ACCORD : conclu et conclu ce dixième jour d'avril mille neuf cents, entre Nikola Tesla, de la to George Westinghouse
+- 10 avril 1900 — nécessaire, obtenir tout autre consentement des autres parties intéressées par Tesla Electric Company to Messieurs
+- 5 septembre 1900 — George Westinghouse to Nikola Tesla
+- 13 mars 1901 — Nikola Tesla to George Westinghouse
+- 18 mars 1901 — George Westinghouse to Nikola Tesla
+- 11 janvier 1906 — Nikola Tesla to George Westinghouse
+- 21 novembre 1908 — Nikola Tesla to George Westinghouse
+- 24 novembre 1908 — George Westinghouse to Nikola Tesla
+- 4 juin 1910 — Nikola Tesla to George Westinghouse
+- 10 août 1910 — Nikola Tesla to George Westinghouse
+- 15 août 1910 — George Westinghouse to Nikola Tesla
+- 19 août 1910 — Nikola Tesla to George Westinghouse
+- 28 décembre (year not stated in the text) — George Westinghouse to Nikola Tesla
