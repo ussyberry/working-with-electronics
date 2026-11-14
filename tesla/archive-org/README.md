@@ -36,3 +36,12 @@ Five of the PDFs are larger than GitHub's 25 MB web-upload limit, so they are no
 | `Tesla, Nikola - Tesla's Complete U.S. Patents_djvu.txt` | 1.4 MB | [archive.org](https://archive.org/download/nikola-tesla-lectures-patents-articles/%20Tesla%2C%20Nikola%20-%20Tesla%27s%20Complete%20U.S.%20Patents_djvu.txt) |
 
 Total: 23 files, 310.4 MB — 18 stored in this folder, 5 marked 'archive.org only' above.
+
+## Transcriptions
+
+Structured Markdown transcriptions of the OCR text, in this folder:
+
+- `inventionsresear00martiala.md` — *The Inventions, Researches and Writings of Nikola Tesla* (Martin, 1894): all 43 chapters.
+- `Tesla, Nikola - Nikola Tesla 1856-1943 - lectures, patents, articles (1956, Nikola Tesla Museum).md` — 1956 Museum edition: 5 lectures, 99 patents, 26 articles.
+- `Tesla, Nikola - Tesla's Complete U.S. Patents.md` — 92 U.S. patents.
+- `Tesla - Westinghouse - letter index.md` — index of the 149 letters and 1 telegram in the Tesla–Westinghouse correspondence (dates, senders, recipients only). The full French text is not reproduced here: the 2022 compilation is a translation of the original English correspondence and carries an "All rights reserved" notice; a full transcription is held locally only.
