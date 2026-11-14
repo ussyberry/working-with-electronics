@@ -2,11 +2,11 @@
 
 > **Source:** Assembled from the original English wording as printed in *Correspondances Tesla–Westinghouse* (Tesla–Westinghouse correspondence), compiled by Jeff Behary, 2022. Archive.org item **tesla-westinghouse-final-intl-text-french_202309** — PDF: https://archive.org/download/tesla-westinghouse-final-intl-text-french_202309/Tesla%20-%20Westinghouse%20Final%20Intl%20Text%20French.pdf
 >
-> **Public domain:** The letters and documents in this file are public domain. Nikola Tesla died in 1943 and George Westinghouse in 1914, and the other documents here are all 19th- and early-20th-century: the Tesla–Peck agreement of 1887, the 1888 AIEE paper and discussion, the 1897 Westinghouse annual report, Tesla's 1893 letters to Edward Dean Adams, the 1897 Scott & Janney patent opinion, the 1895 motor catalogue, and the 1892 *Electrical Engineer* articles.
+> **Public domain:** The letters and documents in this file are public domain. Nikola Tesla died in 1943 and George Westinghouse in 1914, and the other documents here are all 19th- and early-20th-century: the Tesla–Peck agreement of 1887, the 1888 AIEE paper and discussion, the 1897 Westinghouse annual report, Tesla's 1893 letters to Edward Dean Adams, the 1897 Scott & Janney patent opinion, the 1895 motor catalogue, the 1892 *Electrical Engineer* articles and the George Westinghouse memorial forum booklet (1937).
 >
-> **What was removed:** The compilation's modern material has been left out — the compiler's preface, the 1986 centennial article, the novel excerpt, the compiler's notes and the closing photographs — and the French translation of the letters is not included. The 1937 ASME memorial forum booklet was also left out: it carries a 1937 copyright notice and its renewal status could not be verified. Only the historical English documents remain, in the order of the book. Text is kept as printed, including typos and OCR errors; passages the OCR rendered illegibly are marked as such.
+> **What was removed:** The compilation's modern material has been left out — the compiler's preface, the 1986 centennial article, the novel excerpt, the compiler's notes and the closing photographs — and the French translation of the letters is not included. Note: the 1937 memorial forum booklet carries a 1937 copyright notice and its renewal status could not be verified, so it may still be under copyright — it is included at the repository owner's direction. Only the historical English documents remain, in the order of the book. Text is kept as printed, including typos and OCR errors; passages the OCR rendered illegibly are marked as such.
 >
-> **Contents:** The Tesla–Peck agreement (5 April 1887); the correspondence — 151 letters and 1 telegram (1888–1910), plus a statement of account and a memorandum of agreement that appear among the letters in the book; the AIEE General Meeting of 16 May 1888 with Tesla's paper "A New System of Alternate Current Motors and Transformers" and the discussion; the Westinghouse Electric & Manufacturing Co. annual report for 1897; Tesla's 1893 letters to Edward Dean Adams; the Scott & Janney patent opinion (1897); the Westinghouse motor catalogue (1895); and *The Electrical Engineer* on the Westinghouse Works (1892).
+> **Contents:** The Tesla–Peck agreement (5 April 1887); the correspondence — 151 letters and 1 telegram (1888–1910), plus a statement of account and a memorandum of agreement that appear among the letters in the book; the AIEE General Meeting of 16 May 1888 with Tesla's paper "A New System of Alternate Current Motors and Transformers" and the discussion; the Westinghouse Electric & Manufacturing Co. annual report for 1897; Tesla's 1893 letters to Edward Dean Adams; the Scott & Janney patent opinion (1897); the Westinghouse motor catalogue (1895); *The Electrical Engineer* on the Westinghouse Works (1892); and the George Westinghouse memorial forum booklet (1937).
 
 ---
 
@@ -4452,3 +4452,74 @@ Reprinted from Tue ELecrricaL ExGinger,
 
 203 BROADWAY, NEW YORK.
 
+## George Westinghouse, 1840–1914 — Memorial Forum (American Society of Mechanical Engineers)
+
+GEORGE WESTINGHOUSE, 1840-1914.
+
+GEORGE
+
+Wie S ENG HO USE
+
+COMME MORATTO N UE
+
+A FORUM PRESENTING THE CAREER AND ACHIEVEMENTS OF GEORGE WESTINGHOUSE ON THE 90th ANNIVERSARY OF HIS BIRTH CONDUCTED BY THE AMERICAN SOCIETY OF MECHANICAL ENGINEERS
+
+December 1 1936
+
+COPYRIGHTED BY THE AMERICAN SOCIETY OF MECHANICAL ENGINEERS NEW YORK
+
+1937
+
+ON THE PLATFORM FOR THE WESTINGHOUSE FORUM AFTERNOON EXERCISES
+
+Standing (left to right): JOHN F. MILLER, N. W. STORER, THOMAS CAMPBELL, FRANCIS
+
+HODGKINSON, A. W. BERRESFORD, C. R. BEARDSLEY, ROY V. WRIGHT, CHARLES F.
+
+SCOTT. Seated: L. B. STILLWELL, W. W. NICHOLS, FRANK W. SMITH, E. R. HILL, J. V. B. DUER, SAMUEL M. VAUCLAIN.
+
+From George Westinghouse Commemoration, 1937
+
+L. B. Stillman, from George Westinghouse Commemoration, 1937
+
+Charles F. Scott, from George Westinghouse Commemoration, 1937
+
+750 KW. ALTERNATING-CURRENT GENERATOR THAT SUPPLIED ELECTRICITY FOR THE CHICAGO WORLD'S FAIR, 1893.
+
+From George Westinghouse Commemoration, 1937
+
+|
+
+TER ENT IR
+, ; Î
+à *
+4
+Lis
+EH.
+as
+21
+y LS
+: (4 1
+É LS 2
+L À
+ë A
+ts
+: «à [OCR illegible]
+
+SE
+
+D
+
+s
+
+FIRST ALTERNATING-CURRENT GENERATORS INSTALLED AT NIAGARA FALLS, 1896.
+
+From George Westinghouse Commemoration, 1937
+
+ILLUMINATION OF THE CHICAGO WORLD S FAIR, 1893 ONE OF THE DRAMATIC ACHIEVEMENTS OF GEORGE WESTINGHOUSE’S CAREER.
+
+From George Westinghouse Commemoration, 1937
+
+REAR ADMIRAL GEORGE W. MELVILLE, U.S.N., GEORGE WESTINGHOUSE, AND JOHN H. MACALPINE, WHO COLLABORATED IN APPLYING STEAM TURBINES TO MARINE SERVICE.
+
+From George Westinghouse Commemoration, 1937
