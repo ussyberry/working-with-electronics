@@ -45,3 +45,4 @@ Structured Markdown transcriptions of the OCR text, in this folder:
 - `Tesla, Nikola - Nikola Tesla 1856-1943 - lectures, patents, articles (1956, Nikola Tesla Museum).md` — 1956 Museum edition: 5 lectures, 99 patents, 26 articles.
 - `Tesla, Nikola - Tesla's Complete U.S. Patents.md` — 92 U.S. patents.
 - `Tesla - Westinghouse - letter index.md` — index of the 149 letters and 1 telegram in the Tesla–Westinghouse correspondence (dates, senders, recipients only). The full French text is not reproduced here: the 2022 compilation is a translation of the original English correspondence and carries an "All rights reserved" notice; a full transcription is held locally only.
+- `Complete_Patents_Nikola_Tesla.md` — 112 U.S. patents, transcribed from the scanned PDF via OCR (raw OCR text in `Complete_Patents_Nikola_Tesla_djvu.txt`).
